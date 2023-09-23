@@ -1,0 +1,1 @@
+Configure whether NPCs should be on your server or not
